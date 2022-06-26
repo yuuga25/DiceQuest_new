@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5864a8c58b477740a963e625f82e761, type: 3}
+  m_Name: GachaData
+  m_EditorClassIdentifier: 
+  dataBases:
+  - dayOfWeek: "\u6708"
+    picId_1: 1392
+    picId_2: 1076
+    picId_3: 1487
+    color1: {r: 1, g: 0.34509805, b: 0, a: 1}
+    color2: {r: 1, g: 0.101960786, b: 0.105882354, a: 1}
+  - dayOfWeek: "\u706B"
+    picId_1: 1135
+    picId_2: 1164
+    picId_3: 1136
+    color1: {r: 0.5372549, g: 1, b: 1, a: 1}
+    color2: {r: 0, g: 0.5686275, b: 0.827451, a: 1}
+  - dayOfWeek: "\u6C34"
+    picId_1: 1173
+    picId_2: 1241
+    picId_3: 1317
+    color1: {r: 0.4, g: 0.9137255, b: 0.27058825, a: 1}
+    color2: {r: 0.9843137, g: 0.95686275, b: 0.8, a: 1}
+  - dayOfWeek: "\u6728"
+    picId_1: 1090
+    picId_2: 1472
+    picId_3: 1487
+    color1: {r: 0.95686275, g: 0.38431373, b: 1, a: 1}
+    color2: {r: 0.46666667, g: 0, b: 0.8392157, a: 1}
+  - dayOfWeek: "\u91D1"
+    picId_1: 1076
+    picId_2: 1164
+    picId_3: 1241
+    color1: {r: 1, g: 0.101960786, b: 0.105882354, a: 1}
+    color2: {r: 0, g: 0.5686275, b: 0.827451, a: 1}
+  - dayOfWeek: "\u571F"
+    picId_1: 1392
+    picId_2: 1135
+    picId_3: 1173
+    color1: {r: 0, g: 0.6313726, b: 0.27450982, a: 1}
+    color2: {r: 1, g: 0.34509805, b: 0, a: 1}
+  - dayOfWeek: "\u65E5"
+    picId_1: 1090
+    picId_2: 1487
+    picId_3: 1136
+    color1: {r: 0.95686275, g: 0.38431373, b: 1, a: 1}
+    color2: {r: 1, g: 1, b: 0.42745098, a: 1}

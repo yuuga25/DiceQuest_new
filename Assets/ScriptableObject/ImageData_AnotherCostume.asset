@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69bccba7d847340977341dda42dbe5, type: 3}
+  m_Name: ImageData_AnotherCostume
+  m_EditorClassIdentifier: 
+  dataLists:
+  - img_CharaName: "\u30E8\u30EB\u30E0\u30F3\u30AC\u30F3\u30C9"
+    img_Id: 1090
+    img_Face:
+    - {fileID: 21300000, guid: cd3e26edd7251fe4e8978fa421fafdd1, type: 3}
+    - {fileID: 21300000, guid: 6603ab3f12294c148b2ff7d480a1c0a2, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: 42c543f1bdca3d042b131fb751430573, type: 3}
+    - {fileID: 21300000, guid: 46ea75360f5d95c418c2abc4779d7279, type: 3}
+  - img_CharaName: "\u30D1\u30FC\u30B7\u30F4\u30A1\u30EB"
+    img_Id: 1135
+    img_Face:
+    - {fileID: 21300000, guid: 3d4205d453bdd1c42960b09fcf712ac7, type: 3}
+    - {fileID: 21300000, guid: 0448f5df51034e54d95384222e664401, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: 1b5e3e47dd7d00b49abd37e4ae1a0996, type: 3}
+    - {fileID: 21300000, guid: 0aa92e5991149fc48873f0122fc360af, type: 3}
+  - img_CharaName: "\u30AA\u30FC\u30C7\u30A3\u30F3"
+    img_Id: 1173
+    img_Face:
+    - {fileID: 21300000, guid: a79e6bc07a83d6646a43ee5e5d1a7300, type: 3}
+    - {fileID: 21300000, guid: 53dc9805aea981949ab2afa5f634272e, type: 3}
+    - {fileID: 21300000, guid: 9af41cec8f5b1dd42abda0f45bbbe40d, type: 3}
+    - {fileID: 21300000, guid: cacff8f644b795a42a430cbdacac189d, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: 9a62a4798dd3d2b40a6610ecbd2908b0, type: 3}
+    - {fileID: 21300000, guid: e34b301968f56784b9fa026bdac597d8, type: 3}
+    - {fileID: 21300000, guid: 5f0a505a35f159248812caafe8a1e703, type: 3}
+    - {fileID: 21300000, guid: 56c7339b9d81f314a851d09572d80f37, type: 3}
+  - img_CharaName: "\u30D5\u30EA\u30B9\u30C8"
+    img_Id: 1221
+    img_Face:
+    - {fileID: 21300000, guid: 2be3f8417136008448636a9414ece8b7, type: 3}
+    - {fileID: 21300000, guid: be3ed8480edc5254abce005d6e47d1b1, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: 42566b437dce0d744a4430953a4ae047, type: 3}
+    - {fileID: 21300000, guid: dab62dea9eed6e043ba558898d3dc9d2, type: 3}
+  - img_CharaName: "\u30F4\u30A1\u30EB\u30AD\u30EA\u30FC"
+    img_Id: 1345
+    img_Face:
+    - {fileID: 21300000, guid: 1633ffef81bfb4d498c36e13a44a514c, type: 3}
+    - {fileID: 21300000, guid: 454b6605598997f44813622a9c0e487a, type: 3}
+    - {fileID: 21300000, guid: c2fac963b0e1a5147880b825eb7684d2, type: 3}
+    - {fileID: 21300000, guid: 446d5c2d39ce8a84881f535681f94139, type: 3}
+    - {fileID: 21300000, guid: 483c88c3a89c73f4482993fd09316ace, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: 625f197e0ff8eff4081f24ad39820715, type: 3}
+    - {fileID: 21300000, guid: 14849d3d052928d49851a5b927a3d14f, type: 3}
+    - {fileID: 21300000, guid: 85e8134d1399f2741b314ed6b4912ece, type: 3}
+    - {fileID: 21300000, guid: fbadc6969ad1fec459780c2385c70414, type: 3}
+    - {fileID: 21300000, guid: 67f87853350099c46a0948bdcfb0895f, type: 3}
+  - img_CharaName: "\u30AC\u30FC\u30D9\u30E9"
+    img_Id: 1392
+    img_Face:
+    - {fileID: 21300000, guid: 1c59e8c0af61f8b49a05155c0738b10d, type: 3}
+    - {fileID: 21300000, guid: 43a2663f2dda7234587d56fa3492dff4, type: 3}
+    img_Stand:
+    - {fileID: 21300000, guid: ce2bcafb9f27b5348a09c926b94b4720, type: 3}
+    - {fileID: 21300000, guid: ef488a901ed13344abbdadc36443fef4, type: 3}

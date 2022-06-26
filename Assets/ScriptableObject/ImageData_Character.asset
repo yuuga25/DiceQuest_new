@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7bc1b64adace24283e01f333903766, type: 3}
+  m_Name: ImageData_Character
+  m_EditorClassIdentifier: 
+  dataLists:
+  - img_CharaName: "\u30E6\u30F3\u30B0\u30A6\u30A3"
+    img_Id: 1012
+    img_Face: {fileID: 21300000, guid: 14a397fac77cdd443a9652533840f27f, type: 3}
+    img_Stand: {fileID: 21300000, guid: 6377ccbe68b40fb42a0959c7e5e1ba4c, type: 3}
+  - img_CharaName: "\u30C8\u30B9\u30AB"
+    img_Id: 1036
+    img_Face: {fileID: 21300000, guid: 8604b391bd8c4a7469ef2cbb7f326519, type: 3}
+    img_Stand: {fileID: 21300000, guid: e27dac0d7c977b04eb1195b194da448e, type: 3}
+  - img_CharaName: "\u30EB\u30C8\u30E9"
+    img_Id: 1064
+    img_Face: {fileID: 21300000, guid: 80df68a750a65834eac46800aff93a0c, type: 3}
+    img_Stand: {fileID: 21300000, guid: a808c9aa47711ac4897093a41b52ece3, type: 3}
+  - img_CharaName: "\u30EB\u30FC\u30CE"
+    img_Id: 1069
+    img_Face: {fileID: 21300000, guid: 681362eb9660291498897217c03b0a4d, type: 3}
+    img_Stand: {fileID: 21300000, guid: 22c37538d85cb9c47bfcbb297bf2bcf8, type: 3}
+  - img_CharaName: "\u30D0\u30D5\u30A9\u30E1\u30C3\u30C8"
+    img_Id: 1072
+    img_Face: {fileID: 21300000, guid: feba86271dcf1f94b889dec0bbd371e9, type: 3}
+    img_Stand: {fileID: 21300000, guid: 79e94ddedb11c5c4b9c097c8fd4d8fc6, type: 3}
+  - img_CharaName: "\u30A2\u30EB\u30DF\u30EB\u30B9"
+    img_Id: 1073
+    img_Face: {fileID: 21300000, guid: 439ee31fd23c42647ba1000efe9762a0, type: 3}
+    img_Stand: {fileID: 21300000, guid: 1e305a4275764d04d8d9faabfa81c31e, type: 3}
+  - img_CharaName: "\u30D0\u30ED\u30C3\u30AF"
+    img_Id: 1074
+    img_Face: {fileID: 21300000, guid: 8d4553fb6cd6efb468192dd91938b396, type: 3}
+    img_Stand: {fileID: 21300000, guid: ec9f454d4b5b6204388ba12c0dd3a113, type: 3}
+  - img_CharaName: "\u30E0\u30CB\u30F3"
+    img_Id: 1075
+    img_Face: {fileID: 21300000, guid: 89fef06c9a4e8874c8a60f3d318b903c, type: 3}
+    img_Stand: {fileID: 21300000, guid: 629c6bf741c5e4949becede06085753b, type: 3}
+  - img_CharaName: "\u30E4\u30DE\u30C8\u30BF\u30B1\u30EB"
+    img_Id: 1076
+    img_Face: {fileID: 21300000, guid: 5e946abd9e1583d439d8a8770b424df8, type: 3}
+    img_Stand: {fileID: 21300000, guid: decdfab20c645b341b93d6d34c3ae1cc, type: 3}
+  - img_CharaName: "\u30E8\u30EB\u30E0\u30F3\u30AC\u30F3\u30C9"
+    img_Id: 1090
+    img_Face: {fileID: 21300000, guid: cd3e26edd7251fe4e8978fa421fafdd1, type: 3}
+    img_Stand: {fileID: 21300000, guid: 42c543f1bdca3d042b131fb751430573, type: 3}
+  - img_CharaName: "\u30D3\u30D3"
+    img_Id: 1119
+    img_Face: {fileID: 21300000, guid: eb5cac73bc2e4814bbc4fc3fc4d2d9f4, type: 3}
+    img_Stand: {fileID: 21300000, guid: e2f84f6be76a6644f9438a346e23551b, type: 3}
+  - img_CharaName: "\u30D1\u30FC\u30B7\u30F4\u30A1\u30EB"
+    img_Id: 1135
+    img_Face: {fileID: 21300000, guid: 3d4205d453bdd1c42960b09fcf712ac7, type: 3}
+    img_Stand: {fileID: 21300000, guid: 1b5e3e47dd7d00b49abd37e4ae1a0996, type: 3}
+  - img_CharaName: "\u30BF\u30FC\u30B3\u30A4\u30BA"
+    img_Id: 1136
+    img_Face: {fileID: 21300000, guid: d20e6e1f4b5c1b5409365d2be88a296f, type: 3}
+    img_Stand: {fileID: 21300000, guid: d6f717cb36f20634a8f1c3def0217cce, type: 3}
+  - img_CharaName: "\u30D8\u30A4\u30B0\u30C8\u30ED"
+    img_Id: 1146
+    img_Face: {fileID: 21300000, guid: 3a93ddfea9fea7442ab73fb1420f83e6, type: 3}
+    img_Stand: {fileID: 21300000, guid: 4952099082e92234fbe5cb947e207a4f, type: 3}
+  - img_CharaName: "\u30A4\u30B7\u30B9"
+    img_Id: 1150
+    img_Face: {fileID: 21300000, guid: ae8b2871679c0244e812ffa2e8433331, type: 3}
+    img_Stand: {fileID: 21300000, guid: 221deae78452aa84ca1f107936a36139, type: 3}
+  - img_CharaName: "\u30C8\u30C8"
+    img_Id: 1153
+    img_Face: {fileID: 21300000, guid: c06260e53c036884a8fbdd4058785877, type: 3}
+    img_Stand: {fileID: 21300000, guid: 4449833b5f1c1a14aa51a94f91814be7, type: 3}
+  - img_CharaName: "\u30DE\u30AF\u30DE\u30C8\u30D5"
+    img_Id: 1157
+    img_Face: {fileID: 21300000, guid: a86b1883914d1da4fbd3055a2651e82a, type: 3}
+    img_Stand: {fileID: 21300000, guid: b9edb27099272254b89b3f22748f9cba, type: 3}
+  - img_CharaName: "\u30AF\u30DE\u30B3"
+    img_Id: 1164
+    img_Face: {fileID: 21300000, guid: 7e181e577a6287348ae85d8057a6b9f9, type: 3}
+    img_Stand: {fileID: 21300000, guid: f5fefb5b3b8e9a342abeafd5cf02c094, type: 3}
+  - img_CharaName: "\u30AA\u30FC\u30C7\u30A3\u30F3"
+    img_Id: 1173
+    img_Face: {fileID: 21300000, guid: a79e6bc07a83d6646a43ee5e5d1a7300, type: 3}
+    img_Stand: {fileID: 21300000, guid: 9a62a4798dd3d2b40a6610ecbd2908b0, type: 3}
+  - img_CharaName: "\u9B3C\u4ECB"
+    img_Id: 1200
+    img_Face: {fileID: 21300000, guid: f961c22fbed7ff447be452dff66c1928, type: 3}
+    img_Stand: {fileID: 21300000, guid: d1edc432c2f45c64e8aa9d9ca8b5b624, type: 3}
+  - img_CharaName: "\u30E1\u30A4\u30C9\u30EA\u30FC\u30CA"
+    img_Id: 1217
+    img_Face: {fileID: 21300000, guid: 91704037b42615b4980ccf6af1bb2c10, type: 3}
+    img_Stand: {fileID: 21300000, guid: afbe5d42fec6a9a45aa5f8d674311ea7, type: 3}
+  - img_CharaName: "\u30D5\u30EA\u30B9\u30C8"
+    img_Id: 1221
+    img_Face: {fileID: 21300000, guid: 2be3f8417136008448636a9414ece8b7, type: 3}
+    img_Stand: {fileID: 21300000, guid: 42566b437dce0d744a4430953a4ae047, type: 3}
+  - img_CharaName: "\u30B5\u30AF\u30E4\u30D2\u30E1"
+    img_Id: 1225
+    img_Face: {fileID: 21300000, guid: e90b7aff62104f240b0e704dd011d02b, type: 3}
+    img_Stand: {fileID: 21300000, guid: 1e35e86ae65ef42488bcf5447f6bf917, type: 3}
+  - img_CharaName: "\u30E4\u30DE\u30C8\u30D2\u30E1"
+    img_Id: 1241
+    img_Face: {fileID: 21300000, guid: b44d7348d8e64c746a034018411bc3e7, type: 3}
+    img_Stand: {fileID: 21300000, guid: 91a8d17231ba9c4458cfc65e32c0772c, type: 3}
+  - img_CharaName: "\u30E9\u30A4\u30AA\u30CD\u30EB"
+    img_Id: 1261
+    img_Face: {fileID: 21300000, guid: e89b883c39beab84ca4dc8e782655416, type: 3}
+    img_Stand: {fileID: 21300000, guid: 28cc3b1f31abe1d4abe99bd4fd4ab982, type: 3}
+  - img_CharaName: "\u30BF\u30EA\u30B9"
+    img_Id: 1308
+    img_Face: {fileID: 21300000, guid: 4dccc700292b8e341b4ffc7a85795718, type: 3}
+    img_Stand: {fileID: 21300000, guid: e8e1a716b3670254dacdd4838cd31622, type: 3}
+  - img_CharaName: "\u30B0\u30EC\u30C3\u30D4"
+    img_Id: 1317
+    img_Face: {fileID: 21300000, guid: 8341ae048a8653049910f00a4fccfc65, type: 3}
+    img_Stand: {fileID: 21300000, guid: c87738e4978dae244a40884bf53de0a4, type: 3}
+  - img_CharaName: "\u30DE\u30B0\u30CB"
+    img_Id: 1320
+    img_Face: {fileID: 21300000, guid: acd611046d697334bbf4498be2776fa5, type: 3}
+    img_Stand: {fileID: 21300000, guid: a3288d15b9521114e8c3e170f574f536, type: 3}
+  - img_CharaName: "\u30A6\u30CC\u30C8"
+    img_Id: 1325
+    img_Face: {fileID: 21300000, guid: 449e4d3dd25872b40a7f307064a06bbb, type: 3}
+    img_Stand: {fileID: 21300000, guid: 449e4d3dd25872b40a7f307064a06bbb, type: 3}
+  - img_CharaName: "\u30A4\u30BA\u30E2"
+    img_Id: 1329
+    img_Face: {fileID: 21300000, guid: a6a0e1cad53a7d540b88964da3e88a63, type: 3}
+    img_Stand: {fileID: 21300000, guid: 0bd6b8d82e0754440acfd62344f40eda, type: 3}
+  - img_CharaName: "\u30B9\u30AF\u30EB\u30C9"
+    img_Id: 1339
+    img_Face: {fileID: 21300000, guid: ee2197ba332c72141b85730c26b01357, type: 3}
+    img_Stand: {fileID: 21300000, guid: 75629fb98c9f12c47b7a5c1316cb8694, type: 3}
+  - img_CharaName: "\u30F4\u30A1\u30EB\u30AD\u30EA\u30FC"
+    img_Id: 1345
+    img_Face: {fileID: 21300000, guid: 1633ffef81bfb4d498c36e13a44a514c, type: 3}
+    img_Stand: {fileID: 21300000, guid: 625f197e0ff8eff4081f24ad39820715, type: 3}
+  - img_CharaName: "\u30C8\u30EA\u30B9\u30BF\u30F3"
+    img_Id: 1350
+    img_Face: {fileID: 21300000, guid: 01998c9c0941ebd4bbd51c1674286491, type: 3}
+    img_Stand: {fileID: 21300000, guid: 3bb05a5c3a16c4b44a8f39e4c2e20d67, type: 3}
+  - img_CharaName: "\u30E1\u30EB\u30EB"
+    img_Id: 1358
+    img_Face: {fileID: 21300000, guid: 339f6a5b70b22fc4b861e3e70b3ce68a, type: 3}
+    img_Stand: {fileID: 21300000, guid: b27e9a650e8fd87478211e79e44d9c29, type: 3}
+  - img_CharaName: "\u30AC\u30FC\u30D9\u30E9"
+    img_Id: 1392
+    img_Face: {fileID: 21300000, guid: 1c59e8c0af61f8b49a05155c0738b10d, type: 3}
+    img_Stand: {fileID: 21300000, guid: ce2bcafb9f27b5348a09c926b94b4720, type: 3}
+  - img_CharaName: "\u30E1\u30B8\u30A7\u30C9"
+    img_Id: 1433
+    img_Face: {fileID: 21300000, guid: ca45424289f15db45b87051b80ae2666, type: 3}
+    img_Stand: {fileID: 21300000, guid: aade091157db5b8489f4235aa2df3375, type: 3}
+  - img_CharaName: "\u30E2\u30EB\u30C9\u30EC\u30C3\u30C9"
+    img_Id: 1470
+    img_Face: {fileID: 21300000, guid: c3ebc33e83ce0f842add1c4b8e839298, type: 3}
+    img_Stand: {fileID: 21300000, guid: 99fe56ab23a27b0448a83084d581d815, type: 3}
+  - img_CharaName: "\u4E8C\u30C6\u30A3\u30AB"
+    img_Id: 1472
+    img_Face: {fileID: 21300000, guid: 51c24e8cfc843c448b376b54e169d671, type: 3}
+    img_Stand: {fileID: 21300000, guid: 6f08c5377b6ac7a4e86fefe763d57944, type: 3}
+  - img_CharaName: "\u30D8\u30BA"
+    img_Id: 1474
+    img_Face: {fileID: 21300000, guid: 653193edf39a01d4fbf73bd6c8ae74bf, type: 3}
+    img_Stand: {fileID: 21300000, guid: 1e7eefcf63c3182409e3d9322d31a69d, type: 3}
+  - img_CharaName: "\u963F\u56FD"
+    img_Id: 1487
+    img_Face: {fileID: 21300000, guid: 29050e354f93ff6438a94ac818ee1a63, type: 3}
+    img_Stand: {fileID: 21300000, guid: d1947740bd838c646b14e89c7d289829, type: 3}
+  - img_CharaName: "\u30D6\u30ED\u30B9"
+    img_Id: 1504
+    img_Face: {fileID: 21300000, guid: 26ad0a6efcf8d6c4785b781a7f6b0ec8, type: 3}
+    img_Stand: {fileID: 21300000, guid: 6fca8f4024d9fb842b3fce4a0b4493db, type: 3}
+  - img_CharaName: "\u30C7\u30A3\u30A2\u30B9"
+    img_Id: 1505
+    img_Face: {fileID: 21300000, guid: faaa5985f00d9ef4487e66531f09a8fb, type: 3}
+    img_Stand: {fileID: 21300000, guid: fe974c437cc8187409edbf3c709ee9bc, type: 3}
+  - img_CharaName: "\u30A4\u30A8\u30C6\u30A3"
+    img_Id: 1506
+    img_Face: {fileID: 21300000, guid: 453a4dec380a4c44b96f90b0c6c748c0, type: 3}
+    img_Stand: {fileID: 21300000, guid: da71411f80795654ab7a7bed0f54a11d, type: 3}
+  - img_CharaName: "\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30B4\u30FC\u30EC\u30E0"
+    img_Id: 1507
+    img_Face: {fileID: 21300000, guid: 6f404d838e6a6164998bed3d192fe1fc, type: 3}
+    img_Stand: {fileID: 21300000, guid: f6471330cd0e9eb49a1d751442c3760f, type: 3}
