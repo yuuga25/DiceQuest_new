@@ -7,10 +7,24 @@
 
 
 - [概要](https://github.com/yuuga25/DiceQuest_new/edit/main/README.md#%E6%A6%82%E8%A6%81)
-- [使用技術]()
-- [ゲーム内容]()
-    - [プレイ画面]()
-    - [プレイ動画]()
+- [使用技術](https://github.com/yuuga25/DiceQuest_new#%E4%BD%BF%E7%94%A8%E6%8A%80%E8%A1%93)
+- [ゲーム内容](https://github.com/yuuga25/DiceQuest_new#%E3%82%B2%E3%83%BC%E3%83%A0%E5%86%85%E5%AE%B9)
+    - [プレイ動画](https://github.com/yuuga25/DiceQuest_new#%E8%A7%A3%E8%AA%AC%E5%8B%95%E7%94%BB-%E5%88%B6%E4%BD%9C%E4%B8%AD%E3%81%A7%E3%81%99)
+    - [プレイ画面](https://github.com/yuuga25/DiceQuest_new#%E3%82%A2%E3%82%A6%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0)
+        - [アウトゲーム](https://github.com/yuuga25/DiceQuest_new#%E3%82%A2%E3%82%A6%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0)
+            - [タイトル画面/ホーム画面](https://github.com/yuuga25/DiceQuest_new#%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E7%94%BB%E9%9D%A2--%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2)
+            - [キャラクター画面](https://github.com/yuuga25/DiceQuest_new#%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E7%94%BB%E9%9D%A2)
+            - [編成](https://github.com/yuuga25/DiceQuest_new#%E7%B7%A8%E6%88%90)
+            - [強化](https://github.com/yuuga25/DiceQuest_new#%E5%BC%B7%E5%8C%96)
+            - [売却](https://github.com/yuuga25/DiceQuest_new#%E5%A3%B2%E5%8D%B4)
+            - [キャラクター一覧](https://github.com/yuuga25/DiceQuest_new#%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E4%B8%80%E8%A6%A7)
+            - [キャラクターステータス/コーデチェンジ](https://github.com/yuuga25/DiceQuest_new#%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9--%E3%82%B3%E3%83%BC%E3%83%87%E3%83%81%E3%82%A7%E3%83%B3%E3%82%B8)
+            - [図鑑](https://github.com/yuuga25/DiceQuest_new#%E5%9B%B3%E9%91%91)
+            - [ガチャ](https://github.com/yuuga25/DiceQuest_new#%E3%82%AC%E3%83%81%E3%83%A3)
+            - [ショップ](https://github.com/yuuga25/DiceQuest_new#%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97)
+            - [オプション](https://github.com/yuuga25/DiceQuest_new#%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
+            - [ステージ選択](https://github.com/yuuga25/DiceQuest_new#%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%81%B8%E6%8A%9E)
+        - [インゲーム]()  
 - [気を付けた・こだわった部分]()
 - [感想]()
 
@@ -47,7 +61,7 @@
 
 ***
 ### ・キャラクター画面
-キャラクター要素を取り入れたことで、新たに追加された「**編成・キャラクター強化・売却・図鑑 etc.**」
+キャラクター要素を取り入れたことで、新たに追加された「**編成・キャラクター強化・売却・図鑑 etc.**」  
 ![Character](https://user-images.githubusercontent.com/79131217/184515853-ceb5416a-9775-4e48-95d5-bde400cd1888.PNG)
 
 ***
@@ -123,12 +137,11 @@
 ![Field_0_Move](https://user-images.githubusercontent.com/79131217/184515860-e44f9e6e-4ffc-4ea7-bde4-78a00f1e608e.PNG)
 ![Field_0_Fire](https://user-images.githubusercontent.com/79131217/184515859-23fc600a-a806-447d-a052-dd53bd48635c.PNG)
 
-#### フェーズ2
+#### フェーズ2 / フェーズ3
 ![Field_1](https://user-images.githubusercontent.com/79131217/184515862-61099274-056c-4674-bec2-0f82cee1a06e.PNG)
-#### フェーズ3
 ![Field_2](https://user-images.githubusercontent.com/79131217/184515863-a266415f-ee3a-4878-9437-23a06c086416.PNG)
 
-#### 別ステージ(推奨レベル 60)
+#### 別ステージ(推奨レベル 60) / (推奨レベル 100)
 今作も状態異常があります  
 >火傷：ターン開始時に小ダメージを受け、与ダメージが半減する。継続3ターン  
 >麻痺：ダイスを振った際に出目が半減する。継続3ターン  
@@ -136,8 +149,6 @@
 >毒：ターン開始時に小ダメージを受ける。また、移動時に極小ダメージを受ける。継続4ターン  
   
 ![intermediateBattle](https://user-images.githubusercontent.com/79131217/184515871-bd839322-3649-4c88-9569-12c22e7295f8.PNG)
-
-#### 別ステージ(推奨レベル 100)
 ![FinalBattle](https://user-images.githubusercontent.com/79131217/184515864-8de5771f-3e25-4123-b951-6042176dbd57.PNG)
 
 ## 気を付けた部分・こだわった部分
