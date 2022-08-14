@@ -3,7 +3,7 @@
 **制作・立案**　佐藤 侑牙（サトウ ユウガ）
 
 ## [前作はこちらから ←](https://github.com/yuuga25/DiceQuest)
-こちらをご覧いただいた後に、読んでいただくとより、本作品について理解できると思われます。
+こちらをご覧いただいた後に、読んでいただくと、より本作品について理解できます。
 
 
 - [概要](https://github.com/yuuga25/DiceQuest_new/edit/main/README.md#%E6%A6%82%E8%A6%81)
