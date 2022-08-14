@@ -24,9 +24,9 @@
             - [ショップ](https://github.com/yuuga25/DiceQuest_new#%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97)
             - [オプション](https://github.com/yuuga25/DiceQuest_new#%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
             - [ステージ選択](https://github.com/yuuga25/DiceQuest_new#%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%81%B8%E6%8A%9E)
-        - [インゲーム]()  
-- [気を付けた・こだわった部分]()
-- [感想]()
+        - [インゲーム](https://github.com/yuuga25/DiceQuest_new#%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0)
+- [気を付けた・こだわった部分](https://github.com/yuuga25/DiceQuest_new#%E6%B0%97%E3%82%92%E4%BB%98%E3%81%91%E3%81%9F%E9%83%A8%E5%88%86%E3%81%93%E3%81%A0%E3%82%8F%E3%81%A3%E3%81%9F%E9%83%A8%E5%88%86)
+- [感想](https://github.com/yuuga25/DiceQuest_new#%E6%84%9F%E6%83%B3)
 
 ## 概要
 
