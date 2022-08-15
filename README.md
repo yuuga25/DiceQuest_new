@@ -134,14 +134,14 @@
 ![battle2](https://user-images.githubusercontent.com/79131217/184517239-62bef50d-0a45-4e0d-ac3c-edae66855243.PNG)  
 **今作**  
 ![Field_0](https://user-images.githubusercontent.com/79131217/184515858-f5b0a2ba-cd70-42df-aa46-2b670b03edf6.PNG)
-![Field_0_Move](https://user-images.githubusercontent.com/79131217/184515860-e44f9e6e-4ffc-4ea7-bde4-78a00f1e608e.PNG)
+![Field_0_Move](https://user-images.githubusercontent.com/79131217/184583265-b2378bb1-0e44-495f-b227-81da6f6b6efd.PNG)
 ![Field_0_Fire](https://user-images.githubusercontent.com/79131217/184515859-23fc600a-a806-447d-a052-dd53bd48635c.PNG)
 
 #### フェーズ2 / フェーズ3
 ![Field_1](https://user-images.githubusercontent.com/79131217/184515862-61099274-056c-4674-bec2-0f82cee1a06e.PNG)
 ![Field_2](https://user-images.githubusercontent.com/79131217/184515863-a266415f-ee3a-4878-9437-23a06c086416.PNG)
 
-#### 別ステージ(推奨レベル 60) / (推奨レベル 100)
+#### 別ステージ(推奨レベル 70) / (推奨レベル 100)
 今作も状態異常があります  
 >火傷：ターン開始時に小ダメージを受け、与ダメージが半減する。継続3ターン  
 >麻痺：ダイスを振った際に出目が半減する。継続3ターン  
@@ -153,16 +153,11 @@
 
 ## 気を付けた部分・こだわった部分
 
-### ユーザーが面白いと感じる要素を参考にしたゲームから見つける
+### リメイクをするにあたって
 >
 
-### データベース
+### ソーシャルゲームにハマる理由を取り入れる
 >
-
-### UI
->
-
-以上、三点がこだわった部分です。
 
 ## 感想
   
