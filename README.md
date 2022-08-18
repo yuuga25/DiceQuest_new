@@ -8,7 +8,7 @@
 ### 📗 目次
 - [概要](https://github.com/yuuga25/DiceQuest_new/edit/main/README.md#%E6%A6%82%E8%A6%81)
 - [使用技術](https://github.com/yuuga25/DiceQuest_new#%E4%BD%BF%E7%94%A8%E6%8A%80%E8%A1%93)
-- [ゲーム内容](https://github.com/yuuga25/DiceQuest_new#%E3%82%B2%E3%83%BC%E3%83%A0%E5%86%85%E5%AE%B9)
+- [ゲーム内容](https://github.com/yuuga25/DiceQuest_new#-%E3%82%B2%E3%83%BC%E3%83%A0%E5%86%85%E5%AE%B9)
     - [プレイ動画](https://github.com/yuuga25/DiceQuest_new#%E8%A7%A3%E8%AA%AC%E5%8B%95%E7%94%BB-%E5%88%B6%E4%BD%9C%E4%B8%AD%E3%81%A7%E3%81%99)
     - [プレイ画面](https://github.com/yuuga25/DiceQuest_new#%E3%82%A2%E3%82%A6%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0)
         - [アウトゲーム](https://github.com/yuuga25/DiceQuest_new#%E3%82%A2%E3%82%A6%E3%83%88%E3%82%B2%E3%83%BC%E3%83%A0)
