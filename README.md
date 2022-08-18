@@ -173,7 +173,8 @@
 ### サーバーやデータベース周り
 >今回も主にPlayFabを使用して開発を行ったため、主にクライアントエンジニア側が操作する部分の理解を深めることができました。  
 >データ管理はGoogle スプレッドシートを使用し、後々変更があった際にも対応できるようなデータ設計にしました。  
-![DataBase](https://user-images.githubusercontent.com/79131217/185378583-2a4f90aa-5d7e-4fd7-87e3-56acbea26240.PNG)
+>![CharacterData](https://user-images.githubusercontent.com/79131217/185379299-c6de6c00-b972-47f2-97d8-c54314ba3f51.PNG)  
+>![StageData](https://user-images.githubusercontent.com/79131217/185379315-3da08af3-23c3-45e8-bbbd-5f3f5d962aed.PNG)
 
 
 ## 感想
