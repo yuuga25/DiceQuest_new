@@ -5,7 +5,7 @@
 ## [前作はこちらから ←](https://github.com/yuuga25/DiceQuest)
 こちらをご覧いただいた後に、読んでいただくと、より本作品について理解できます。
 
-### 📚 目次
+### 📗 目次
 - [概要](https://github.com/yuuga25/DiceQuest_new/edit/main/README.md#%E6%A6%82%E8%A6%81)
 - [使用技術](https://github.com/yuuga25/DiceQuest_new#%E4%BD%BF%E7%94%A8%E6%8A%80%E8%A1%93)
 - [ゲーム内容](https://github.com/yuuga25/DiceQuest_new#%E3%82%B2%E3%83%BC%E3%83%A0%E5%86%85%E5%AE%B9)
